@@ -187,7 +187,7 @@ genoscene/
 ## الاتصال / Contact
 
 - **البريد الإلكتروني** / **Email**: Genoscenee@gmail.com
-- **المشروع** / **Project Link**: [https://github.com/shahndaa/Genoscene](https://github.com/shahndaa/Genoscene)
+- **المشروع** / **Project Link**: [https://shahndaa.github.io/Genoscene/](https://shahndaa.github.io/Genoscene/)
 
 ## الشكر والتقدير / Acknowledgments
 
