@@ -35,7 +35,7 @@ GenoScene is an advanced AI-powered forensic phenotype prediction system designe
 
 1. **استنساخ المشروع** / **Clone the repository**:
 ```bash
-git clone https://github.com/your-username/genoscene.git
+git clone https://github.com/shahndaa/Genoscene.git
 cd genoscene
 ```
 
@@ -186,8 +186,8 @@ genoscene/
 
 ## الاتصال / Contact
 
-- **البريد الإلكتروني** / **Email**: your-email@example.com
-- **المشروع** / **Project Link**: [https://github.com/your-username/genoscene](https://github.com/your-username/genoscene)
+- **البريد الإلكتروني** / **Email**: Genoscenee@gmail.com
+- **المشروع** / **Project Link**: [https://github.com/shahndaa/Genoscene](https://github.com/shahndaa/Genoscene)
 
 ## الشكر والتقدير / Acknowledgments
 
